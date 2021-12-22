@@ -1,0 +1,9 @@
+.metadata
+
+shop-mobile-device/.settings/
+shop-mobile-device/.classpath
+shop-mobile-device/.project
+shop-mobile-device/target
+
+admin-front-app/node_modules/
+my-cell-phone-s/node_modules/
